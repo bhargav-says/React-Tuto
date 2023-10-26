@@ -37,7 +37,7 @@ function App() {
     <>
       <div>
      
-        <Card/>
+        <Card name="bhargav" />
         <h1 className='bg-green-400'>Bhargav</h1>
        {/* <button onClick={handleSubmit}>cliuck{count}</button>
        <button onClick={handleSubmitt}>cliuck{sub}</button> */}
